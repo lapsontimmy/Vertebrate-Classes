@@ -1,0 +1,42 @@
+body {background-color: green;}
+h1 {color:blue;}
+h2 {color:orange;}
+p {color:pink;background-color:white;}
+
+
+ <style>
+.Dept {
+ background-color: tomato;
+color: white;
+border: 2px solid black;
+margin: 20px;
+padding: 20px;
+ }
+</style>
+</head>
+<body>
+<div class="Dept">
+ <h2>Physics</h2>
+ <p>Physics Department.</p>
+</div>
+<div class="Dept">
+ <h2>Biology</h2>
+ <p>Biology Department.</p>
+</div>
+12
+<div class="Dept">
+ <h2>MSCS</h2>
+ <p>The Mathematics, Statistics and Computer Sciences Department</p>
+</div>
+</body>
+</html>
+<style>
+
+.Dept {
+ background-color: tomato;
+color: white;
+border: 2px solid black;
+margin: 20px;
+padding: 20px;
+ }
+</style>
